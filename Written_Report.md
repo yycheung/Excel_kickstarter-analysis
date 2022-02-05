@@ -28,3 +28,5 @@ From the analysis of Outcomes based on Goals, we can conclude that most successf
 There are some limitations on the analysis, for example the Kickstarter dataset cannot represent every campaigns performances, though the data size is already over 4000. Secondly, the data is covered all over the world, so may not fully explain for the situation in specific country since cultural difference. Lastly, the dataset is not up to date, the most recent information is 2017, which is 5 years ago from now, the outcome might be different. 
 
 To make this analysis be more sophisticated, we can generate more statistical tables such as measuring central tendency by calculating the mean, median and mode; examine how spread the data is by taking quadrilles into account; and considering the data distribution by looking at the standard deviation; last but not least to identify if there is any outlines affecting the result. 
+
+hello world
